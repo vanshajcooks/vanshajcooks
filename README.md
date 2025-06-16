@@ -1,5 +1,5 @@
 # 💫 About Me:
--I’m currently working pursuing my Btech at Thapar Institute of Engineering and Technology<br><br>👨‍💻 Game, Web and App developer<br>🌐 Exploring Cyber Security, AI-ML <br>⚡ Interested in stuff like WEB3 and Arduino<br>
+-I’m currently pursuing my Btech at Thapar Institute of Engineering and Technology<br><br>👨‍💻 Game, Web and App developer<br>🌐 Exploring Cyber Security, AI-ML <br>⚡ Interested in stuff like WEB3 and Arduino<br>
 
 
 ## 🌐 Socials:
